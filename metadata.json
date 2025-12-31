@@ -1,0 +1,9 @@
+{
+  "name": "Play Nest",
+  "description": "A calm, parent-controlled platform for toy exchange, meaningful child activities, and local community connection, focused on healthy development and sustainability.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
